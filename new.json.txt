@@ -1,7 +1,0 @@
-{
-"first_name":"anastasia",
-"last_name":"gabets",
-"age":33,
-"wage":450
-}
-
